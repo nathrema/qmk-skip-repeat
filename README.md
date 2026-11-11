@@ -12,16 +12,16 @@ Layout authors include it to increase the efficiency of inputs.
 
 ## Skip Repeat
 
-![qwerty keymap](image/qwerty.png)
+![qwerty keymap](images/qwerty.png)
 
 This is QWERTY's keymap. Let's place our skip repeat key on left thumb, represented by `◇`.
 
 Imagine we want to type the word `here`. Without skip magic we'd type it like this:
 
-![here typed with a duplicate finger](image/here-1.png)
+![here typed with a duplicate finger](images/here-1.png)
 Notice how we repeat the use of `2`, reducing our speed.
 
-![here typed with unique fingers](image/here-2.png)
+![here typed with unique fingers](images/here-2.png)
 With skip repeat we instead press `◇` for the second `e`.
 
 We can now remap every skip repeated character with `◇`.
