@@ -47,3 +47,6 @@ This adds the keymap to our existing `keymap.c`.
 7. Flash your firmware.  
 `qmk flash -kb <your keyboard> -km example`
 
+## FAQ
+**I'm having trouble!**  
+If you'd like to learn more about Alternate Keyboard Layouts, join us in our [discord](https://discord.gg/pjhz8QtjE2). We are always happy to help.
