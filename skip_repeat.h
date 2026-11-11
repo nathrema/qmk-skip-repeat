@@ -49,6 +49,7 @@ bool process_skip_repeat(uint16_t keycode, keyrecord_t *record) {
         case QK_REP:
             keycode = get_last_keycode();
             last_mods = get_last_mods();
+	    last_os_mods = 0;
             break;
 #endif
     }
