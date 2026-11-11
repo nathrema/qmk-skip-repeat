@@ -49,4 +49,7 @@ This adds the keymap to our existing `keymap.c`.
 
 ## FAQ
 **I'm having trouble!**  
-If you'd like to learn more about Alternate Keyboard Layouts, join us in our [discord](https://discord.gg/pjhz8QtjE2). We are always happy to help.
+If you'd like to learn more about Alternate Keyboard Layouts, join us in our [discord](https://discord.gg/pjhz8QtjE2). We are always happy to help.  
+
+**How do I use regular repeat?**
+[Repeat](https://docs.qmk.fm/features/repeat_key) is already built-in to QMK.
