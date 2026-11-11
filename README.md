@@ -9,9 +9,7 @@ Repeats the second last character.
 Skip repeat is a concept popularized by the [Alternate Keyboard Layouts](https://discord.gg/pjhz8QtjE2) discord.  
 Layout authors include it to increase the efficiency of inputs by reducing successive use of the same finger.
   
-
-## Skip Repeat
-
+&nbsp;  
 ![qwerty keymap](images/qwerty.png)
 
 This is QWERTY's keymap. Let's place our skip repeat key on left thumb, represented by `◇`.  
