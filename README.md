@@ -7,7 +7,7 @@ Repeats the second last character.
 ## Why?
 
 Skip repeat is a concept popularized by the [Alternate Keyboard Layouts](https://discord.gg/pjhz8QtjE2) discord.  
-Layout authors include it to increase the efficiency of inputs.
+Layout authors include it to increase the efficiency of inputs by reducing successive use of the same finger.
   
 
 ## Skip Repeat
