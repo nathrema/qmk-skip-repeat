@@ -19,12 +19,12 @@ This is QWERTY's keymap. Let's place our skip repeat key on left thumb, represen
 Imagine we want to type the word `here`. Without skip magic we'd type it like this:
 
 ![here typed with a duplicate finger](images/here-1.png)
-Notice how we repeat the use of `2`, reducing our speed.
+Notice how we repeat the use of the `2` finger, reducing our speed.
 
 ![here typed with unique fingers](images/here-2.png)
 With skip repeat we instead press `◇` for the second `e`.
 
-We can now remap every skip repeated character with `◇`.
+We can now remap every skip repeated character to `◇`, improving our speed and reducing strain.
 
 ## Usage
 
