@@ -48,8 +48,9 @@ This adds the keymap to our existing `keymap.c`.
 `qmk flash -kb <your keyboard> -km example`
 
 ## FAQ
+**How do I use regular repeat?**  
+[Repeat](https://docs.qmk.fm/features/repeat_key) is already built-in to QMK.  
+
 **I'm having trouble!**  
 If you'd like to learn more about Alternate Keyboard Layouts, join us in our [discord](https://discord.gg/pjhz8QtjE2). We are always happy to help.  
 
-**How do I use regular repeat?**
-[Repeat](https://docs.qmk.fm/features/repeat_key) is already built-in to QMK.
