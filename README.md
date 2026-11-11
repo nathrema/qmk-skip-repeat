@@ -20,7 +20,7 @@ Imagine we want to type the word `here`.
 Without skip repeat we'd type it like this:  
 
 ![here typed with a duplicate finger](images/here-1.png)  
-Notice how we use the `2` finger multiple times, reducing our speed.  
+Notice how we use the `e` finger multiple times, reducing our speed.  
 &nbsp;  
 With skip repeat we instead press `◇` for the second `e`:  
 
